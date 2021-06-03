@@ -1,7 +1,7 @@
 import javax.mail.*;
 import javax.mail.internet.*;
 import java.util.*;
-
+//.
 public class HeaderClient {
 
   public static void main(String[] args) {
