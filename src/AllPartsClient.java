@@ -2,7 +2,7 @@ import javax.mail.*;
 import javax.mail.internet.*;
 import java.util.*;
 import java.io.*;
-
+//.
 public class AllPartsClient {
 
   public static void main(String[] args) {
